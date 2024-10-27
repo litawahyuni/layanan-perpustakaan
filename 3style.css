@@ -1,0 +1,69 @@
+body {
+	font-family: Candara;
+	background-image: url("/tugaslita/images/bg2.gif");
+	background-position: center;
+	background-size: cover
+	background-repeat: no-repeat;
+	margin-left: 60px; margin-right: 60px;
+}
+h1 {
+	font-family: Brusher;
+	color: hsl(173, 48%, 19%);
+	font-size: 40px;
+	text-align: center;
+	background-color: hsl(39, 55%, 67%);
+	padding: 8px;
+	margin-left: 190px; margin-right: 190px;
+}
+
+p {
+	text-align: justify;
+	font-size: 15px;
+	color: black;
+	float:
+	padding: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	background-color: rgba(300, 300, 300, 0.8);
+}
+
+h2 {
+	font-family: Bakso Sapi;
+	background-color: hsl(57, 98%, 74%);
+	color:hsl(32, 100%, 20%);
+}
+
+div {
+	padding: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-left: 20px;
+	background-color: rgba(300, 300, 300, 0.9);
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+ }
+
+img{
+	width: 280px;
+	height: 200px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.border {
+	border-style: dashed;
+	border-color: hsl(7, 79%, 56%);
+	border-radius: 5px;
+	background-color: hsl(334, 72%, 92%)
+}
+
+td{
+	text-align: justify;
+}
